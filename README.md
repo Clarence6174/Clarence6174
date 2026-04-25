@@ -8,6 +8,12 @@ The trifecta — Python, TypeScript, Rust — isn't just a stack. It's a way of 
 My projects tend to live in one of a few territories: intelligent systems that solve a specific problem elegantly, full-stack tools built from API to UI, low-level work where correctness and speed aren't negotiable, and open-source experiments I release because some things just want to be free.
 When I'm not deep in abstractions, I'm watching nature with a juice in hand, wondering what's next. The beauty of AI — a creation built for a specific task — never stops being mind-blowing to me.*
 
+
+<img align="centre" src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZnaGVnZmh1bnRuZm41Nm1hMm41dDg3cjhmeHM2Z2lwYW1pN3F3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OLPQ6z2hlHmwFc4Hso/giphy.gif width="400"/>
+
+
+
+
 ## *What I do* 🤓
 <br/>
 <div align="center">
@@ -39,10 +45,21 @@ When I'm not deep in abstractions, I'm watching nature with a juice in hand, won
 
 
 ## *Stack* 💯
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-000000?style=flat-square&logo=openai&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
 
 
 
