@@ -1,6 +1,6 @@
 # What's good? 👻
 ## I'm Madu Chinemerem Clarence 👨🏽‍💻
-***Freelance AI Engineer. I wield Python, TypeScript, and Rust — turning chaos into cosmos, one abstraction at a time.***
+***Freelance ML Engineer. I wield Python, TypeScript, and Rust — turning chaos into cosmos, one abstraction at a time.***
 ---
 *I'm a solitary freelance AI Engineer — wired to think, built to build. I find beauty in the gap between disorder and structure. Every system I touch moves from entropy to elegance.
 The trifecta — Python, TypeScript, Rust — isn't just a stack. It's a way of seeing. Python for thought. TypeScript for expression. Rust for precision. Three languages, one coherent philosophy.*
@@ -48,10 +48,12 @@ When I'm not deep in abstractions, I'm watching nature with a juice in hand, won
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/>
