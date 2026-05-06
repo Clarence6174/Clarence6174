@@ -14,7 +14,7 @@
 
 
 
-<img align="centre" src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZnaGVnZmh1bnRuZm41Nm1hMm41dDg3cjhmeHM2Z2lwYW1pN3F3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OLPQ6z2hlHmwFc4Hso/giphy.gif width="400"/>
+<img align="centre" src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTUzMmg3dHh3N3d0b2ZpMjN6NTd4YnA5MG42a3h5bmY4dG5lM2VnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif width="400"/>
 
 
 
@@ -25,8 +25,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 &nbsp; AI Engineering</h4>
-      <p>Models, pipelines, agents. I take ideas from a napkin sketch to a system that runs in production — reliably, repeatably, without breaking at 3am.</p>
+      <h4>🤖 &nbsp; Machine Learning</h4>
+      <p>Models, data pipelines, inference. I take ideas from a messy notebook to a system that runs in production — reliably, repeatably, without breaking at 3am.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🏗️ &nbsp; Systems Design</h4>
@@ -35,8 +35,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 &nbsp; Full-Stack</h4>
-      <p>Wherever the problem lives, I go. API to UI. I don't stop at the boundary — I own the whole surface, front to back.</p>
+      <h4>🌐 &nbsp; End-to-End</h4>
+      <p>Wherever the problem lives, I go. Raw dataset to live API. I don't stop at handing off model weights — I own the whole surface, from training to deployment.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🔓 &nbsp; Open Source</h4>
