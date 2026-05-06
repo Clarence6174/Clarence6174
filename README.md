@@ -1,12 +1,17 @@
 # What's good? 👻
 ## I'm Madu Chinemerem Clarence 👨🏽‍💻
-***Freelance ML Engineer. I wield Python, TypeScript, and Rust — turning chaos into cosmos, one abstraction at a time.***
+***Freelance ML Engineer. Love turning chaos into cosmos, one abstraction at a time.***
 ---
-*I'm a solitary freelance AI Engineer — wired to think, built to build. I find beauty in the gap between disorder and structure. Every system I touch moves from entropy to elegance.
-The trifecta — Python, TypeScript, Rust — isn't just a stack. It's a way of seeing. Python for thought. TypeScript for expression. Rust for precision. Three languages, one coherent philosophy.*
-*I build things that think. Models that reason, agents that act, pipelines that don't break — and interfaces that don't lie. Whether it's a backend system that needs to be bulletproof or an AI that needs to be actually useful, I close the gap between prototype and production without losing the idea along the way.
-My projects tend to live in one of a few territories: intelligent systems that solve a specific problem elegantly, full-stack tools built from API to UI, low-level work where correctness and speed aren't negotiable, and open-source experiments I release because some things just want to be free.
-When I'm not deep in abstractions, I'm watching nature with a juice in hand, wondering what's next. The beauty of AI — a creation built for a specific task — never stops being mind-blowing to me.*
+
+
+- The Vibe: Freelance ML Engineer. I work best alone, mostly just taking chaotic data and quietly making it make sense. No fluff, just structure.
+
+- The Work: I build models that actually learn and pipelines that don't fall over. Mostly, I'm just here to get ideas out of the Jupyter notebook and into production without the usual headache.
+
+- The Focus: Usually living somewhere between end-to-end ML infra, optimizing code until it's stupid-fast, and dropping open-source side quests whenever I feel like it.
+
+- The Downtime: Screen closed, outside with a juice, unplugged. Though honestly, it's still pretty wild to me that we can just teach math to do things.
+
 
 
 <img align="centre" src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZnaGVnZmh1bnRuZm41Nm1hMm41dDg3cjhmeHM2Z2lwYW1pN3F3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OLPQ6z2hlHmwFc4Hso/giphy.gif width="400"/>
