@@ -1,117 +1,122 @@
-# What's good? 👻
-## I'm Madu Chinemerem Clarence 👨🏽‍💻
-***Freelance ML Engineer. Love turning chaos into cosmos, one abstraction at a time.***
+<!-- ============================================================
+     MADU CHINEMEREM CLARENCE — GitHub Profile README
+     entropy → elegance.
+     ============================================================ -->
+
+<div align="center">
+
+```
+  ███╗   ███╗ █████╗ ██████╗ ██╗   ██╗
+  ████╗ ████║██╔══██╗██╔══██╗██║   ██║
+  ██╔████╔██║███████║██║  ██║██║   ██║
+  ██║╚██╔╝██║██╔══██║██║  ██║██║   ██║
+  ██║ ╚═╝ ██║██║  ██║██████╔╝╚██████╔╝
+  ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝
+```
+
+### Freelance Machine Learning Engineer
+
+*entropy → elegance.*
+
+</div>
+
 ---
 
+## What's good? 👻
 
-- The Vibe: Freelance ML Engineer. I work best alone, mostly just taking chaotic data and quietly making it make sense. No fluff, just structure.
+I'm **Chinemerem Madu** — a freelance ML engineer who turns chaotic data into production systems, quietly and without the usual noise.
 
-- The Work: I build models that actually learn and pipelines that don't fall over. Mostly, I'm just here to get ideas out of the Jupyter notebook and into production without the usual headache.
+No fluff. No over-engineering. Just abstractions that earn their place and pipelines that don't fall over at 3am.
 
-- The Focus: Usually living somewhere between end-to-end ML infra, optimizing code until it's stupid-fast, and dropping open-source side quests whenever I feel like it.
+```python
+class ChinemeremMadu:
+    role    = "Freelance Machine Learning Engineer"
+    focus   = ["End-to-End ML", "Deep Learning", "MLOps", "Systems Design"]
+    stack   = ["Python", "Rust", "C++", "PyTorch", "FastAPI", "AWS", "Docker"]
+    status  = "Open to freelance engagements & open-source collaboration"
+    mantra  = "entropy → elegance"
+```
 
-- The Downtime: Screen closed, outside with a juice, unplugged. Though honestly, it's still pretty wild to me that we can just teach math to do things.
+---
 
+## What I Do 🤓
 
+| | |
+|---|---|
+| **🤖 Machine Learning** | Models, data pipelines, inference. From a messy notebook to a system that runs in production — reliably, repeatably, without breaking. |
+| **🏗️ Systems Design** | Clean abstractions. Correct behaviour. Fast execution. Every component earns its place, nothing is accidental. |
+| **🌐 End-to-End** | Raw dataset to live API. I don't stop at handing off model weights — I own the whole surface, from training to deployment. |
+| **🔓 Open Source** | I build in public. Some things just want to be free — tools, experiments, utilities I'd want to exist myself. |
 
-<img align="centre" src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTUzMmg3dHh3N3d0b2ZpMjN6NTd4YnA5MG42a3h5bmY4dG5lM2VnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif width="400"/>
+---
 
+## Stack 💯
 
+**Languages**
 
-
-## *What I do* 🤓
-<br/>
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 &nbsp; Machine Learning</h4>
-      <p>Models, data pipelines, inference. I take ideas from a messy notebook to a system that runs in production — reliably, repeatably, without breaking at 3am.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏗️ &nbsp; Systems Design</h4>
-      <p>Clean abstractions. Correct behavior. Fast execution. I think in systems — every component earns its place, nothing is accidental.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 &nbsp; End-to-End</h4>
-      <p>Wherever the problem lives, I go. Raw dataset to live API. I don't stop at handing off model weights — I own the whole surface, from training to deployment.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔓 &nbsp; Open Source</h4>
-      <p>I build in public. Some things just want to be free — tools, experiments, utilities I'd want to exist myself.</p>
-    </td>
-  </tr>
-</table>
-</div>
-<br/>
-
-
-
-## *Stack* 💯
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,scala,java,r,julia&theme=dark" />
 </p>
 
+**ML / DL**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48"/>
+</p>
 
-## *GitHub Stats* 📊
-<br/>
+**Infra & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,fastapi,githubactions,postgres,redis,linux,git&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="48"/>
+</p>
+
+---
+
+## GitHub Stats 📊
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Clarence6174&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&hide_border=false&count_private=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Clarence6174&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=22d3ee&text_color=888888&icon_color=22d3ee&border_color=222222&hide_border=false&count_private=true&rank_icon=github" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarence6174&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=888888&border_color=333333&hide_border=false&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarence6174&layout=compact&theme=dark&bg_color=0d0d0d&title_color=22d3ee&text_color=888888&border_color=222222&hide_border=false&langs_count=6" height="170"/>
+
 <br/><br/>
-<img src="https://streak-stats.demolab.com?user=Clarence6174&theme=dark&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=333333&date_format=j%20M%5B%20Y%5D" />
+
+<img src="https://streak-stats.demolab.com?user=Clarence6174&theme=dark&background=0d0d0d&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=222222&date_format=j%20M%5B%20Y%5D"/>
+
 </div>
-<br/>
 
+---
 
+---
 
+## Find Me 😑
 
-
-## *Find Me* 😑
-<br/>
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="100"><i>email</i></td>
-    <td><a href="mailto:Chinemerem.Madu@proton.me">Chinemerem.Madu@proton.me</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><i>github</i></td>
-    <td><a href="https://github.com/Clarence6174">github.com/Clarence6174</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><i>linkedin</i></td>
-    <td><a href="https://linkedin.com/in/madu">linkedin.com/in/madu</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><i>twitter</i></td>
-    <td><a href="https://twitter.com/It_is_clarence">@It_is_clarence</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><i>telegram</i></td>
-    <td><a href="https://t.me/madu_clarence">@madu_clarence</a></td>
-  </tr>
-</table>
+
+| | |
+|:---:|:---|
+| 📧 | [Chinemerem.Madu@proton.me](mailto:Chinemerem.Madu@proton.me) |
+| 🐙 | [github.com/Clarence6174](https://github.com/Clarence6174) |
+| 💼 | [linkedin.com/in/chinemerem-madu-8875a93b0](https://www.linkedin.com/in/chinemerem-madu-8875a93b0) |
+| 🐦 | [@It_is_clarence](https://twitter.com/It_is_clarence) |
+| ✍️ | [@chinemeremmadu on Medium](https://medium.com/@chinemeremmadu) |
+| 🤗 | [huggingface.co/ChinemeremMadu](https://huggingface.co/ChinemeremMadu) |
+| 🔬 | [ORCID 0009-0009-6911-2442](https://orcid.org/0009-0009-6911-2442) |
+| ✈️ | [@madu_clarence on Telegram](https://t.me/madu_clarence) |
+| 🌐 | [chinemeremmadu.vercel.app](https://chinemeremmadu.vercel.app) |
+
 </div>
-<br/>
+
+---
 
 <div align="center">
   <sub><i>entropy → elegance.</i></sub>
