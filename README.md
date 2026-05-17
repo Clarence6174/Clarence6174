@@ -100,21 +100,17 @@ class ChinemeremMadu:
 
 ## Find Me 😑
 
-<div align="center">
-
-| | |
-|:---:|:---|
-| 📧 | [Chinemerem.Madu@proton.me](mailto:Chinemerem.Madu@proton.me) |
-| 🐙 | [github.com/Clarence6174](https://github.com/Clarence6174) |
-| 💼 | [linkedin.com/in/chinemerem-madu-8875a93b0](https://www.linkedin.com/in/chinemerem-madu-8875a93b0) |
-| 🐦 | [@It_is_clarence](https://twitter.com/It_is_clarence) |
-| ✍️ | [@chinemeremmadu on Medium](https://medium.com/@chinemeremmadu) |
-| 🤗 | [huggingface.co/ChinemeremMadu](https://huggingface.co/ChinemeremMadu) |
-| 🔬 | [ORCID 0009-0009-6911-2442](https://orcid.org/0009-0009-6911-2442) |
-| ✈️ | [@madu_clarence on Telegram](https://t.me/madu_clarence) |
-| 🌐 | [chinemeremmadu.vercel.app](https://chinemeremmadu.vercel.app) |
-
-</div>
+<p align="center">
+  <a href="mailto:Chinemerem.Madu@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+  <a href="https://github.com/Clarence6174"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chinemerem-madu-8875a93b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/It_is_clarence"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://medium.com/@chinemeremmadu"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://huggingface.co/ChinemeremMadu"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="https://orcid.org/0009-0009-6911-2442"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+  <a href="https://t.me/madu_clarence"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://chinemeremmadu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+</p>
 
 ---
 
