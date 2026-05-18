@@ -55,7 +55,7 @@ class ChinemeremMadu:
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,rust,cpp,scala,java,r,julia&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,scala,julia&theme=dark" />
 </p>
 
 **ML / DL**
