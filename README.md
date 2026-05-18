@@ -24,7 +24,7 @@
 
 ## What's good? 👻
 
-I'm **Chinemerem Madu** — a freelance ML engineer who turns chaotic data into production systems, quietly and without the usual noise.
+I'm **Chinemerem Madu** — A Software Engineer specializing in Machine Learning — with a deep focus on Deep Learning systems, from research to production.
 
 No fluff. No over-engineering. Just abstractions that earn their place and pipelines that don't fall over at 3am.
 
