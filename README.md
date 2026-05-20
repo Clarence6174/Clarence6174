@@ -14,7 +14,7 @@
   ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝
 ```
 
-### Freelance Machine Learning Engineer
+### Software Engineer — Machine Learning — Deep Learning
 
 *entropy → elegance.*
 
@@ -24,17 +24,17 @@
 
 ## What's good? 👻
 
-I'm **Chinemerem Madu** — A Software Engineer specializing in Machine Learning — with a deep focus on Deep Learning systems, from research to production.
+I'm **Chinemerem Madu** — a freelance ML engineer who turns chaotic data into production systems, quietly and without the usual noise.
 
 No fluff. No over-engineering. Just abstractions that earn their place and pipelines that don't fall over at 3am.
 
 ```python
 class ChinemeremMadu:
-    role    = "Freelance Machine Learning Engineer"
-    focus   = ["End-to-End ML", "Deep Learning", "MLOps", "Systems Design"]
-    stack   = ["Python", "Rust", "C++", "PyTorch", "FastAPI", "AWS", "Docker"]
-    status  = "Open to freelance engagements & open-source collaboration"
-    mantra  = "entropy → elegance"
+    role         = "Software Engineer"
+    specialization = "Machine Learning"
+    niche        = "Deep Learning"
+    status       = "Open to full-time, contract & research roles"
+    mantra       = "entropy → elegance"
 ```
 
 ---
@@ -93,8 +93,6 @@ class ChinemeremMadu:
 <img src="https://streak-stats.demolab.com?user=Clarence6174&theme=dark&background=0d0d0d&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=222222&date_format=j%20M%5B%20Y%5D"/>
 
 </div>
-
----
 
 ---
 
